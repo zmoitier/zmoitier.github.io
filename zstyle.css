@@ -1,0 +1,70 @@
+#prenomNom{
+  text-align: center;
+}
+
+#prenomNom > a{
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+#prenomNom > a:hover{
+  color: #7F7F7F;
+}
+
+#navBarre{
+  background-color: white;
+}
+
+#navBarre ul{
+  border-style: solid;
+  border-width: 2px;
+  background-color: white;/*#D3D3D3;*/
+  border-radius: 0px 10px 0px 10px;
+}
+
+#navBarre a{
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  transition: 0.2s;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#navBarre li:first-child a{
+  border-radius: 0px 0px 0px 8px;
+}
+
+#navBarre li:last-child a{
+  border-radius: 0px 8px 0px 0px;
+}
+
+#navBarre .active > a{
+  background-color: #2CA02C;
+  color: white;
+}
+
+#corpsTexte a{
+  color: #1F77B4;
+}
+
+#corpsTexte p{
+  text-indent: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+#corpsTexte ul{
+    list-style: disclosure-closed;
+}
+
+#corpsTexte td{
+    vertical-align: top;
+}
+
+#basDePage{
+  text-align: center;
+}
