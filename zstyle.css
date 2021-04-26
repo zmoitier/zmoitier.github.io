@@ -1,8 +1,8 @@
-#prenomNom{
+#prenomNom {
   text-align: center;
 }
 
-#prenomNom > a{
+#prenomNom > a {
   color: black;
   font-size: 50px;
   font-weight: bold;
@@ -10,22 +10,22 @@
   transition: 0.2s;
 }
 
-#prenomNom > a:hover{
-  color: #7F7F7F;
+#prenomNom > a:hover {
+  color: #7f7f7f;
 }
 
-#navBarre{
+#navBarre {
   background-color: white;
 }
 
-#navBarre ul{
+#navBarre ul {
   border-style: solid;
   border-width: 2px;
-  background-color: white;/*#D3D3D3;*/
+  background-color: white; /*#D3D3D3;*/
   border-radius: 0px 10px 0px 10px;
 }
 
-#navBarre a{
+#navBarre a {
   color: black;
   font-size: 25px;
   font-weight: bold;
@@ -34,37 +34,41 @@
   padding-right: 30px;
 }
 
-#navBarre li:first-child a{
+#navBarre li:first-child a {
   border-radius: 0px 0px 0px 8px;
 }
 
-#navBarre li:last-child a{
+#navBarre li:last-child a {
   border-radius: 0px 8px 0px 0px;
 }
 
-#navBarre .active > a{
-  background-color: #2CA02C;
+#navBarre .active > a {
+  background-color: #2ca02c;
   color: white;
 }
 
-#corpsTexte a{
-  color: #1F77B4;
+#corpsTexte a {
+  color: #1f77b4;
 }
 
-#corpsTexte p{
+#corpsTexte p {
   text-indent: 2em;
   padding-top: 2em;
   padding-bottom: 2em;
 }
 
-#corpsTexte ul{
-    list-style: disclosure-closed;
+#corpsTexte ul {
+  list-style: disclosure-closed;
 }
 
-#corpsTexte td{
-    vertical-align: top;
+#corpsTexte td {
+  vertical-align: top;
 }
 
-#basDePage{
+#basDePage {
   text-align: center;
+}
+
+tr.spaceUnder > td {
+  padding-bottom: 1em;
 }
