@@ -9,4 +9,3 @@ $(document).ready(function(){
     $("#corpsTexte").load(add.substr(1)+".html");
   });  
 });
-
