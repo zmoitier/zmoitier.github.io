@@ -4,7 +4,7 @@
 
 - [Bootstrap](https://getbootstrap.com/)
 - [Pandoc](https://pandoc.org/)
-- [minify](https://github.com/tdewolff/minify)
+- [minify](https://github.com/tdewolff/minify/tree/master/cmd/minify) `minify -r -o out/ src`
 
 ## Visual Studio Code extensions
 
@@ -14,3 +14,7 @@
 - `foxundermoon.shell-format`
 - `ecmel.vscode-html-css`
 - `valentjn.vscode-ltex`
+
+## Links
+
+- https://unicode-table.com

@@ -52,9 +52,9 @@
 }
 
 #corpsTexte p {
-  text-indent: 2em;
-  padding-top: 2em;
-  padding-bottom: 2em;
+  text-indent: 0em;
+  padding-top: 1ex;
+  padding-bottom: 1ex;
 }
 
 #corpsTexte ul {
