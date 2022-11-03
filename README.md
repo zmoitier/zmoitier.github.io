@@ -4,7 +4,9 @@
 
 - [Bootstrap](https://getbootstrap.com/)
 - [Pandoc](https://pandoc.org/)
-- [minify](https://github.com/tdewolff/minify/tree/master/cmd/minify) `minify -r -o out/ src`
+- [minify](https://github.com/tdewolff/minify/tree/master/cmd/minify)
+- [tidy]()
+- [cssbeautify]()
 
 ## Visual Studio Code extensions
 
