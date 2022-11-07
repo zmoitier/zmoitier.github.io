@@ -32,6 +32,7 @@ __2019__  __Mathematical and numerical study of resonances in optical micro-cavi
                        Invitations
 ---------  ----------  --------------------------------------
 __2022__   __Nov.__    Talk at _Rencontre JCJC Ondes_, Sophia Antipolis (France).
+           __Nov.__    Talk at the _S&eacute;minaire EDP et Applications_ of Nancy.
            __Sept.__   Oberwolfach for the conference _At the Interface between Semiclassical Analysis and Numerical Analysis of Wave Scattering Problems_ (Germany).
            __May__     Talk at the seminar MetaMAT at Imperial College London (online). \[[Video](https://doi.org/10.52843/meta-mat.1j8c09)\]
 __2021__   __Nov.__    Talk at the seminar POEMS at Palaiseau (France).
