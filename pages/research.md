@@ -2,7 +2,7 @@
 
 #### Pre-publications
 
-- __Scattering resonances in unbounded transmission problems with sign-changing coefficient__, with Camille Carvalho. \[[arXiv](https://arxiv.org/abs/2010.07583), [HAL](https://hal.archives-ouvertes.fr/hal-02965993)\] {[code](https://github.com/zmoitier/Asymptotic_metacavity)}
+- __Scattering resonances in unbounded transmission problems with sign-changing coefficient__, with Camille Carvalho. \[[arXiv](https://arxiv.org/abs/2010.07583), [HAL](https://hal.archives-ouvertes.fr/hal-02965993), accepted\] {[code](https://github.com/zmoitier/Asymptotic_metacavity)}
 
 #### Published
 
@@ -31,9 +31,10 @@ __2019__  __Mathematical and numerical study of resonances in optical micro-cavi
 
                        Invitations
 ---------  ----------  --------------------------------------
+__2023__   __Mars__    Talk at the numerical analysis seminar of IRMAR in Rennes (France).
 __2022__   __Nov.__    Talk at _Rencontre JCJC Ondes_, Sophia Antipolis (France).
            __Nov.__    Talk at the _S&eacute;minaire EDP et Applications_ of Nancy.
-           __Sept.__   Oberwolfach for the conference _At the Interface between Semiclassical Analysis and Numerical Analysis of Wave Scattering Problems_ (Germany).
+           __Sept.__   Oberwolfach for the conference _At the Interface between Semiclassical Analysis and Numerical Analysis of Wave Scattering Problems_ (Germany). \[[Workshop Report](https://doi.org/10.14760/OWR-2022-43)\]
            __May__     Talk at the seminar MetaMAT at Imperial College London (online). \[[Video](https://doi.org/10.52843/meta-mat.1j8c09)\]
 __2021__   __Nov.__    Talk at the seminar POEMS at Palaiseau (France).
            __Oct.__    Workshop Numerical Waves in Nice (France).
@@ -41,7 +42,7 @@ __2021__   __Nov.__    Talk at the seminar POEMS at Palaiseau (France).
 __2018__   __Dec.__    PhD seminar of Cergy (France).
            __Nov.__    Numerical analysis seminar of Bath (United Kingdom).
            __Aug.__    14^th^ Franco-Romanian conference on applied mathematics, in the mini-symposium _Mathematical Physics and related subjects_, in Bordeaux (France).
-           __March__    ICCEM conference (IEEE International Conference on Computational Electromagnetic), in the mini-symposium _Mathematical Aspects of Computational Electromagnetic_, in Chengdu (China). \[Extended Abstract, [HAL](https://hal.archives-ouvertes.fr/hal-01715438)\]
+           __March__    ICCEM conference (IEEE International Conference on Computational Electromagnetic), in the mini-symposium _Mathematical Aspects of Computational Electromagnetic_, in Chengdu (China). \[[Extended Abstract](https://hal.archives-ouvertes.fr/hal-01715438)\]
            __March__   PhD seminar of Nantes (France).
 ---------  ----------  --------------------------------------
 
