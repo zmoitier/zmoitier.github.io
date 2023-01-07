@@ -19,6 +19,6 @@
 ---------  ----------  --------------------------------------
 __2018__   __Oct.__    Facilitator in mathematic during "Fête de la Science", Rennes (France).
            __April__   Board for the French tournament for young mathematicians, Rennes (France).
-           __Jan.__    Talk for the "5 minutes Lebesgue" on _Can one hear the shape of a drum?_. \[[Video](https://www.lebesgue.fr/fr/node/4606), [YouTube](https://youtu.be/AvHLMKDdXjI)\]\[[Slides](docs/5minHL.pdf)\]
+           __Jan.__    Talk for the "5 minutes Lebesgue" on _Can one hear the shape of a drum?_. \[[Video](https://www.lebesgue.fr/fr/node/4606), [YouTube](https://youtu.be/AvHLMKDdXjI)\]\[[Slides](documents/5minHL.pdf)\]
 __2017__   __March__   Facilitator in mathematic during "Forum des Math&eacute;matiques Vivantes", Rennes (France).
 ---------  ----------  --------------------------------------

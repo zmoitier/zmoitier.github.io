@@ -29,29 +29,31 @@ __2019__  __Mathematical and numerical study of resonances in optical micro-cavi
 
 ## Research Conferences
 
-                       Invitations
+                       As an invited speaker
 ---------  ----------  --------------------------------------
-__2023__   __Mars__    Talk at the numerical analysis seminar of IRMAR in Rennes (France).
-__2022__   __Nov.__    Talk at _Rencontre JCJC Ondes_, Sophia Antipolis (France).
-           __Nov.__    Talk at the _S&eacute;minaire EDP et Applications_ of Nancy.
+__2023__   __Mars__    Numerical analysis seminar of IRMAR in Rennes (France).
+           __Feb.__    SIAM Conference on Computational Science and Engineering (CSE23) in the mini-symposium _Mesh Constraints: From Specific to General Meshes_, Amsterdam (Netherlands).
+__2022__   __Nov.__    _Rencontre JCJC Ondes_, Sophia Antipolis (France).
+           __Nov.__    _S&eacute;minaire EDP et Applications_ of Nancy (France).
            __Sept.__   Oberwolfach for the conference _At the Interface between Semiclassical Analysis and Numerical Analysis of Wave Scattering Problems_ (Germany). \[[Workshop Report](https://doi.org/10.14760/OWR-2022-43)\]
-           __May__     Talk at the seminar MetaMAT at Imperial College London (online). \[[Video](https://doi.org/10.52843/meta-mat.1j8c09)\]
-__2021__   __Nov.__    Talk at the seminar POEMS at Palaiseau (France).
+           __May__     Seminar MetaMAT at Imperial College London (online). \[[Video](https://doi.org/10.52843/meta-mat.1j8c09)\]
+__2021__   __Nov.__    Seminar POEMS at Palaiseau (France).
            __Oct.__    Workshop Numerical Waves in Nice (France).
-           __June__    conference, in the mini-symposium _Mod&eacute;lisation et simulation des ph&eacute;nom&egrave;nes &eacute;lectromagn&eacute;tiques en milieux complexes_, La-Grande-Motte (France).
+           __June__    10^th^ SMAI conference, in the mini-symposium _Mod&eacute;lisation et simulation des ph&eacute;nom&egrave;nes &eacute;lectromagn&eacute;tiques en milieux complexes_, La-Grande-Motte (France).
 __2018__   __Dec.__    PhD seminar of Cergy (France).
            __Nov.__    Numerical analysis seminar of Bath (United Kingdom).
            __Aug.__    14^th^ Franco-Romanian conference on applied mathematics, in the mini-symposium _Mathematical Physics and related subjects_, in Bordeaux (France).
-           __March__    ICCEM conference (IEEE International Conference on Computational Electromagnetic), in the mini-symposium _Mathematical Aspects of Computational Electromagnetic_, in Chengdu (China). \[[Extended Abstract](https://hal.archives-ouvertes.fr/hal-01715438)\]
+           __March__   ICCEM conference (IEEE International Conference on Computational Electromagnetic), in the mini-symposium _Mathematical Aspects of Computational Electromagnetic_, in Chengdu (China). \[[Extended Abstract](https://hal.archives-ouvertes.fr/hal-01715438)\]
            __March__   PhD seminar of Nantes (France).
 ---------  ----------  --------------------------------------
 
-                       Talks
+                       As a contributed speaker
 ---------  ----------  --------------------------------------
 __2022__   __July__    WAVES, 15^th^ International Conference on Mathematical and Numerical Aspects of Wave Propagation, Palaiseau (France).
            __Feb.__    _Wave Phenomena: Analysis and Numerics_ conference at Karlsruhe Institute of Technology (Germany).
-__2021__   __April__   IANA seminar at Karlsruhe Institute of Technology (Germany).
-           __March__   SIAM Conference on Computational Science and Engineering (CSE21), Fort Worth (USA).
+__2021__   __Dec.__    IANA seminar at Karlsruhe Institute of Technology (Germany).
+           __April__   IANA seminar at Karlsruhe Institute of Technology (Germany).
+           __March__   SIAM Conference on Computational Science and Engineering (CSE21) in the mini-symposium _Numerical Methods for Plasmonic Related Phenomena_, Fort Worth (USA).
 __2019__   __Nov.__    Waves Seminar in Merced (USA).
            __Sept.__   Analysis PhD seminar of Rennes (France).
            __Aug.__    WAVES, 14^th^ International Conference on Mathematical and Numerical Aspects of Wave Propagation, Vienna (Austria).
@@ -62,7 +64,7 @@ __2017__   __Nov.__    Analysis PhD seminar of Rennes (France).
            __March__   Analysis PhD seminar of Rennes (France).
 ---------  ----------  --------------------------------------
 
-                       Poster
+                       Poster contribution
 ---------  ----------  --------------------------------------
 __2022__   __May__     Herglotz-Nevanlinna Functions and their Applications to Dispersive Systems and Composite Materials, CIRM, Marseille (France).
 __2019__   __March__   Young researcher days in PDE, Rennes (France).
@@ -70,9 +72,9 @@ __2017__   __Oct.__    6^th^ EDP-Normandie conference, Caen (France).
            __June__    8^th^ SMAI conference, La Tremblade (France).
 ---------  ----------  --------------------------------------
 
-                       Research Conferences and Workshops
+                       As a participant
 ---------  ----------  --------------------------------------
-__2021__   __Nov.__    Rencontre JCJC Développement (software development for research), Palaiseau (France).
+__2021__   __Nov.__    _Rencontre JCJC D&eacute;veloppement_ (software development for research), Palaiseau (France).
            __Sept.__   Summer School _Wave Phenomena: Analysis and Numerics_, Karlsruhe (Germany).
 __2018__   __Oct.__    Lebesgue PhD meeting of the Henri Lebesgue Center, Brest (France).
            __April__   Spring school, *Fundamentals and practice of finite elements*, Thematic Semester "Scientific Computing" of the Henri Lebesgue Center, Roscoff (France).
