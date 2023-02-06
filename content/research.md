@@ -2,11 +2,10 @@
 
 #### Pre-publications
 
-- __Scattering resonances in unbounded transmission problems with sign-changing coefficient__, with Camille Carvalho. \[[arXiv](https://arxiv.org/abs/2010.07583), [HAL](https://hal.archives-ouvertes.fr/hal-02965993), accepted\] {[code](https://github.com/zmoitier/Asymptotic_metacavity)}
-
 #### Published
 
 --------  -------------------------------------------------
+__2023__  __Scattering resonances in unbounded transmission problems with sign-changing coefficient__, with Camille Carvalho. \[[arXiv](https://arxiv.org/abs/2010.07583), [HAL](https://hal.archives-ouvertes.fr/hal-02965993), [DOI](https://doi.org/10.1093/imamat/hxad005)\] {[code](https://github.com/zmoitier/Asymptotic_metacavity)}
 __2022__  __Nonlinear Helmholtz equations with sign-changing diffusion coefficient__, with Rainer Mandel and Barbara Verf&uuml;rth, _Comptes Rendus. Math&eacute;matique_. \[[arXiv](https://arxiv.org/abs/2107.14516), [HAL](https://hal.archives-ouvertes.fr/hal-03830736), [DOI](https://doi.org/10.5802/crmath.322)\] {[code](https://doi.org/10.5281/zenodo.5140020)}
 __2021__  __Quadrature by Parity Asymptotic eXpansions (QPAX) for scattering by high aspect ratio particles__, with Camille Carvalho, Arnold D. Kim, and Lori Lewis, _SIAM Journal Multiscale Modeling and Simulation_. \[[arXiv](https://arxiv.org/abs/2105.02136), [HAL](https://hal.archives-ouvertes.fr/hal-03830718), [DOI](https://doi.org/10.1137/21M1416801)\] {[code](https://github.com/zmoitier/Scattering_BIE_QPAX)}
           __Asymptotics for 2D whispering gallery modes in optical micro-disks with radially varying index__, with St&eacute;phane Balac and Monique Dauge, _IMA Journal of Applied Mathematics_. \[[arXiv](https://arxiv.org/abs/2003.14315), [HAL](https://hal.archives-ouvertes.fr/hal-02528150), [DOI](https://doi.org/10.1093/imamat/hxab033)\]
@@ -31,7 +30,7 @@ __2019__  __Mathematical and numerical study of resonances in optical micro-cavi
 
                        As an invited speaker
 ---------  ----------  --------------------------------------
-__2023__   __Mars__    Numerical analysis seminar of IRMAR in Rennes (France).
+__2023__   __June__    Numerical analysis seminar of IRMAR in Rennes (France).
            __Feb.__    SIAM Conference on Computational Science and Engineering (CSE23) in the mini-symposium _Mesh Constraints: From Specific to General Meshes_, Amsterdam (Netherlands).
 __2022__   __Nov.__    _Rencontre JCJC Ondes_, Sophia Antipolis (France).
            __Nov.__    _S&eacute;minaire EDP et Applications_ of Nancy (France).
