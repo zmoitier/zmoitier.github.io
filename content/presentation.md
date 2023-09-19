@@ -1,6 +1,6 @@
 ## About Me
 
-Since 2022, I am a postdoctoral researcher in the POEMS teams of the UMA at ENSTA Paris (France), mainly working with [Maryna Kachanovska](https://sites.google.com/site/mkachanovska) and [Patrick Joly](https://uma.ensta-paris.fr/~pjoly).
+Since 2022, I am a postdoctoral researcher in the POEMS teams of the UMA at ENSTA Paris (France), working with [Maryna Kachanovska](https://sites.google.com/site/mkachanovska) and [Patrick Joly](https://uma.ensta-paris.fr/~pjoly).
 
 From 2020 to 2022, I was a postdoctoral researcher in the group of [Rainer Mandel](https://sites.google.com/view/rainermandel) in the Institute for Analysis of the department of mathematics at the Karlsruhe Institute of Technology (Germany).
 I was also a member of the Junior Research Group *Nonlinear Helmholtz equations* ([AP2](https://www.waves.kit.edu/AP2.php)) within the [CRC &ndash; 1173 Wave phenomena](https://www.waves.kit.edu/index.php).

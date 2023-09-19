@@ -30,7 +30,8 @@ __2019__  __Mathematical and numerical study of resonances in optical micro-cavi
 
                        As an invited speaker
 ---------  ----------  --------------------------------------
-__2023__   __June__    Numerical analysis seminar of IRMAR in Rennes (France).
+__2023__   __Sept.__   Seminar IDEFIX at Palaiseau (France).
+           __June__    Numerical analysis seminar of IRMAR in Rennes (France).
            __Feb.__    SIAM Conference on Computational Science and Engineering (CSE23) in the mini-symposium _Mesh Constraints: From Specific to General Meshes_, Amsterdam (Netherlands).
 __2022__   __Nov.__    _Rencontre JCJC Ondes_, Sophia Antipolis (France).
            __Nov.__    _S&eacute;minaire EDP et Applications_ of Nancy (France).
