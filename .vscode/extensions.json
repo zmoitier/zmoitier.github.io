@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "ecmel.vscode-html-css",
+    "ms-vscode.live-server",
+    "valentjn.vscode-ltex",
+    "yzhang.markdown-all-in-one",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "timonwong.shellcheck"
+  ]
+}
