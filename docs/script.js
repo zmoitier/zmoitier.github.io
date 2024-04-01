@@ -1,1 +1,1 @@
-$(document).ready(function(){$("#corpsTexte").load("presentation.html"),$(".onglet").click(function(e){e.preventDefault();var t=$(this).attr("href");$(".active").removeClass("active"),$(this).parent().addClass("active"),$("#corpsTexte").load(t.substr(1)+".html")})})
+$(document).ready(function(){$("#corpsTexte").load("presentation.html"),$(".onglet").click(function(a){a.preventDefault();var b=$(this).attr("href");$(".active").removeClass("active"),$(this).parent().addClass("active"),$("#corpsTexte").load(b.substr(1)+".html")})})
