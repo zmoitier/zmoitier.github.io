@@ -1,3 +1,9 @@
+#### 2024 - 2025
+
+- Complex analysis, 12h (1A ENSTA Paris)
+- Functional analysis, 12h (2A ENSTA Paris)
+- Probability introduction, 12h (1A ENSTA Paris)
+
 #### 2023 - 2024
 
 - The Finite Element Method, 12h (2A ENSTA Paris)

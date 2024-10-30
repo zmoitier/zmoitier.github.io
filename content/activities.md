@@ -18,7 +18,8 @@
 
                        As an invited speaker
 ---------  ----------  --------------------------------------
-__2024__   __April__   Imperial-UCL Numerics Seminar, London (UK).
+__2024__   __Nov.__    Normand Meeting on theoretical and numerical aspects of PDE, Rouen (France).
+           __April__   Imperial-UCL Numerics Seminar, London (United Kingdom).
            __Jan.__    PDE and applications seminar Metz (France).
 __2023__   __Nov.__    Seminar (post-)doctorants UMA at Palaiseau (France).
            __Sept.__   Seminar IDEFIX at Palaiseau (France).
