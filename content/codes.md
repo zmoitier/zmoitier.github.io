@@ -1,6 +1,8 @@
 ## Codes associated to articles
 
 ---------  ------------------------------------------------
+__2024__   High-order numerical integration on self-affine sets. {[GitHub](https://github.com/zmoitier/IFSCubature)}
+           [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13743388.svg)](https://doi.org/10.5281/zenodo.13743388)
 __2023__   Scattering resonances in unbounded transmission problems with sign-changing coefficient. {[GitHub](https://github.com/zmoitier/Asymptotic_metacavity)}
            [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4716362.svg)](https://doi.org/10.5281/zenodo.4716362)
 __2022__   Nonlinear Helmholtz equations with sign-changing diffusion coefficient.

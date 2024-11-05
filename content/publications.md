@@ -1,7 +1,7 @@
 ## Pre-publications
 
 --------  -------------------------------------------------
-__2024__  __High-order numerical integration on self-affine sets__, with  Patrick Joly and Maryna Kachanovska. \[[HAL](https://inria.hal.science/hal-04711030)\] {[code](https://github.com/zmoitier/IFSCubature)}
+__2024__  __High-order numerical integration on self-affine sets__, with  Patrick Joly and Maryna Kachanovska. \[[arXiv](https://arxiv.org/abs/2410.00637), [HAL](https://inria.hal.science/hal-04711030)\] {[code](https://github.com/zmoitier/IFSCubature)}
 --------  -------------------------------------------------
 
 ## Published
