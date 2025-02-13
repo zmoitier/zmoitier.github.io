@@ -6,15 +6,12 @@
 - [Pandoc](https://pandoc.org/)
 - [minify](https://github.com/tdewolff/minify/tree/master/cmd/minify)
 
-## Visual Studio Code extensions
-
-- `ms-vscode.live-server`
-- `yzhang.markdown-all-in-one`
-- `esbenp.prettier-vscode`
-- `foxundermoon.shell-format`
-- `ecmel.vscode-html-css`
-- `valentjn.vscode-ltex`
-
 ## Links
 
 - https://unicode-table.com
+
+## Remark
+
+- use `ch` for number of characters by line (60 - 100).
+- line height 1.4
+- padding at least 15px
