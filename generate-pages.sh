@@ -10,5 +10,5 @@ for FILE in content/*.md; do
 done
 
 for FILE in docs/*.html docs/*.css docs/*.js docs/images/*.svg; do
-    minify -o "$FILE" "$FILE"
+    minify -v -o "$FILE" "$FILE"
 done

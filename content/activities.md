@@ -1,5 +1,9 @@
 ## Responsibilities
 
+#### 2024 - 2025
+
+- Co-organizer of the mini-symposium _Recent progress in Higher-Order Numerical Integration_ at the 15^th^ International Congress on Spectral and High Order Methods (ICOSAHOM 2025), Montréal (Canada).
+
 #### 2023-2024
 
 - Co-organizer of the 4^th^ _Rencontre JCJC Ondes_, Paris (France).
@@ -18,7 +22,9 @@
 
                        As an invited speaker
 ---------  ----------  --------------------------------------
-__2025__   __Feb.__    Seminar MAC, Toulouse (France).
+__2025__   __May__     Seminar LAREMA at Angers (France).
+           __April__   Seminar IDEFIX at Palaiseau (France).
+           __Feb.__    Seminar MAC, Toulouse (France).
 __2024__   __Nov.__    Normand Meeting on theoretical and numerical aspects of PDE, Rouen (France).
            __April__   Imperial-UCL Numerics Seminar, London (United Kingdom).
            __Jan.__    PDE and applications seminar Metz (France).
@@ -75,6 +81,8 @@ __2017__   __Oct.__    6^th^ EDP-Normandie conference, Caen (France).
 
                        As a participant
 ---------  ----------  --------------------------------------
+__2025__   __July__    ICOSAHOM, 15^th^ International Congress on Spectral and High Order Methods, Montréal (Canada).
+           __June__    Workshop on numerical analysis and scientific computing for electromagnetics in honor of Patrick Ciarlet's 60^th^ birthday, Paris (France).
 __2024__   __May__     Paris-Saclay conference in Analysis and PDE, an occasion to celebrate Maciej Zworski's 60^th^ birthday, Orsay (France).
            __April__   _Journées ondes des poètes_, in honor of the 60^th^ birthday of Éliane Bécache, Anne-Sophie Bonnet-Ben Dhia, Christophe Hazard and Eric Lunéville, Palaiseau (France).
 __2021__   __Nov.__    _Rencontre JCJC D&eacute;veloppement_ (software development for research), Palaiseau (France).
